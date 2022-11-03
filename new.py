@@ -1,3 +1,4 @@
+import sqrt
 n = 9
 
 flag = 0
