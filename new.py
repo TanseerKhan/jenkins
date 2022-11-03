@@ -1,4 +1,6 @@
-import sqrt
+from math import sqrt
+
+# Number to be checked for prime
 n = 9
 
 flag = 0
